@@ -4,7 +4,7 @@ include('navbar.html');
 <html>
 <head>
 <link rel="stylesheet" href="stylecode.css">
-<title>PHONEBOOOK
+<title>PHONEBOOK
 </title>
 </head>
 <body>
