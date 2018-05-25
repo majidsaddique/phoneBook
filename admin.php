@@ -8,7 +8,7 @@ include('navbar.html');
 </title>
 </head>
 <body>
-<h1>Select your Mode</h1><br>
+<h1>Select your Operation</h1><br>
 <div style="text-align:center">
 <form method="POST" action="majid.php">
 <input class="submit" type="submit" name="save" Value="Add New Contact">
