@@ -1,0 +1,83 @@
+ body {          
+
+                      background:url(images/bb.jpg) repeat left bottom;
+                      font-family: "Times New Roman", Times, serif;
+                       margin-top: px;
+		}
+		table { 
+                       
+			margin: auto;
+			font-family: "Lucida Sans Unicode", "Lucida Grande", "Segoe Ui";
+			font-size: 16px;
+            border-color:#64AE64;
+            background-color:#BDB76B;
+                        
+		}
+		.hh{
+			
+			color:red;
+			family-font:bold;
+			text-align:center;
+			
+		}
+		
+.footer{
+background:url('images/h.png');
+    overflow: hidden;
+	clear: both;
+    height: 50px;
+    width: 860px;
+    margin: 0 auto;
+	margin-top: 5;
+    padding: 1px;
+text-transform: uppercase;
+}		
+		.adbox {
+width: 452px;
+height:270px;
+margin-left:460px;
+margin-top:50px;
+}
+
+		h1 {
+			margin: 5px auto 0;
+			text-align: center;
+			text-transform: uppercase;
+			font-size: 24px;
+			text-decoration:fuchsia;
+                        color:#333;
+                   display: block;
+		}
+		p{
+display: block;
+color:white;
+family-font:12px;
+			
+		}
+		td {
+			transition: all .5s;
+		}
+		
+		th{
+
+                    color:#DC143C;
+                   }
+ input[type=text],input[type=password],select{
+    width: 250px;
+	background-color:#D3E8D3;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=submit],input[type=button] {
+    background-color: cccc00;
+    family-font:bold;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover,input[type=button]:hover {
+    background-color:#666600;
+    color:white;
+	}
